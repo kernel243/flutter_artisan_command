@@ -1,7 +1,7 @@
 name: flutter_artisan_command
-description: A new Flutter plugin project.
+description: This package provides a set of new artisan commands for Flutter
 version: 0.0.1
-homepage:
+homepage: https://github.com/kernel243/flutter_artisan_command
 
 environment:
   sdk: '>=3.0.1 <4.0.0'
